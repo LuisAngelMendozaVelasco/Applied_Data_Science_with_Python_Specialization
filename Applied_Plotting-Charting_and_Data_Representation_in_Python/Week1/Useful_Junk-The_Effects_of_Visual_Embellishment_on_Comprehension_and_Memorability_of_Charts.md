@@ -1,0 +1,4 @@
+# Useful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts
+
+Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D., & Brooks, C. (2010, April). 
+[Useful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts](https://www.researchgate.net/profile/Scott_Bateman/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts/links/0deec5281274548361000000/Useful-Junk-The-effects-of-visual-embellishment-on-comprehension-and-memorability-of-charts.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 2573-2582). ACM.
