@@ -1,4 +1,4 @@
-# Week 3 Textbook Reading Assignment (Optional)
+# Week 3 Reading Assignments (Optional)
 
 **Course Textbook**
 

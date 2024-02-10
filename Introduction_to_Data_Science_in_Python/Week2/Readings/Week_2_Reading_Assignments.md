@@ -1,4 +1,4 @@
-# Week 2 Textbook Reading Assignment (Optional)
+# Week 2 Reading Assignments (Optional)
 
 **Course Textbook**
 
