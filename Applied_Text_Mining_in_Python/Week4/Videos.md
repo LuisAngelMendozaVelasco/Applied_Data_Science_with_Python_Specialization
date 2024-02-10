@@ -1,0 +1,9 @@
+# Module 4: Topic Modeling
+
+- [Semantic Text Similarity](https://d3c33hcgiwev3.cloudfront.net/6YHYeWgHEeeDRAot5bGaoA.processed/full/720p/index.mp4?Expires=1707696000&Signature=iLjJEG0yvsuiP1YoSKoFai3wZYkSdYLGHMpAef4sNRNzJx2Z2TFOSqppZNgTHBJqBjs8DMvTUlIPIre~r1YFkVri2MGiyLaUBSToJfwXEB-VjcjuRBx8mWj9-4prBfVvyHJLaIbbFR4CAA04L8WmSrVsjwBEg1SqWy~odjxSYh8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Topic Modeling](https://d3c33hcgiwev3.cloudfront.net/ldTLaGgHEeeDRAot5bGaoA.processed/full/720p/index.mp4?Expires=1707696000&Signature=DO5zKEvBY~MsaOwfVaTBung1HSIS-hl6oQEpVy4CDiTL07fHDflHryuxvs6S9ccpnTxc1MSpjlXDn9j1AZd4-of-dGGFq58LDE7qARI6nbDf6hEcshk1kDq4GIme6OfM8RV~wlq6LJLbWOk4ZCDdB2JwgU~tGEojFLgdyZsiNa4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Generative Models and LDA](https://d3c33hcgiwev3.cloudfront.net/HGxKRXe-Eee1BBJ2zgI9PA.processed/full/720p/index.mp4?Expires=1707696000&Signature=KsXSyoUzDnSkClKvGLeeJd8PtoxdutvmTnRBHhbfxegDuc2JkNxq4ZwqwafQ6FppN6NnQOfmRHAypdePFjQi3s~b9PB8EggZisbTmkpCl0hNJHzFSpW1VD5L8jTtltOeMtjrwETlQZvYkgmELzdKtjZnSXUWEd9g6VGPS5VulwM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+- [Information Extraction](https://d3c33hcgiwev3.cloudfront.net/PDPrQ2bHEeeSBw5DxGzUwg.processed/full/720p/index.mp4?Expires=1707696000&Signature=FOian4FdF9ikdTA44LSwr~rQtHIstLdGJbois~YKpGQTuv0XoHkA9z-hy4L608B6ubV7SUHPHwxunoLzLt9AcC-bq~0bxlyYRidNFTZ-UI2OlBiaBSzkj5fHAkybqm~VVfzhKlzDjcoYNczk-HuYcmVT2gbg55ytQkhggKY~4Is_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
