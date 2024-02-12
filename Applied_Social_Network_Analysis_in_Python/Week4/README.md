@@ -11,3 +11,27 @@ In Module Four, you'll explore the evolution of networks over time, including th
 - Identify and describe several network measures that can be used for link prediction.
 - Use NetworkX to create node pair features that are predictive of new edges.
 - Use NetworkX to create node features that are predictive of node attributes in a real world setting.
+
+## Module 4: Applications
+
+- [Video - Preferential Attachment Model](https://www.coursera.org/learn/python-social-network-analysis/lecture/abipd/preferential-attachment-model)
+
+- [Reading - Power Laws and Rich-Get-Richer Phenomena (Optional)](http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf)
+
+- [Video - Small World Networks](https://www.coursera.org/learn/python-social-network-analysis/lecture/Iv4e8/small-world-networks)
+
+- [Video - Link Prediction](https://www.coursera.org/learn/python-social-network-analysis/lecture/hvFPZ/link-prediction)
+
+- [Lab - Extracting Features from Graphs](./Labs/Graph%20Features.ipynb)
+
+- [Reading - The Small-World Phenomenon (Optional)](http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf)
+
+## Module 4 Assignment
+
+- [Lab - Assignment 4](./Labs/Assignment%204.ipynb)
+
+## Post-Course Survey
+
+- [Reading - Post-Course Survey](https://www.coursera.org/learn/python-social-network-analysis/supplement/XUx2A/post-course-survey)
+
+- [Reading - Keep Learning with Michigan Online!](https://www.coursera.org/learn/python-social-network-analysis/supplement/yYkDU/keep-learning-with-michigan-online)
