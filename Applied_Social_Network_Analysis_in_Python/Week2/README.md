@@ -11,3 +11,21 @@ In Module Two you'll learn how to analyze the connectivity of a network based on
 - Identify different types of network attacks and relate them to real world examples.
 - Define node and edge connectivity of a network and describe their implication to network robustness.
 - Assess how resistant a network is to node and edge removal attacks, using networkX
+
+## Module 2: Network Connectivity
+
+- [Video - Clustering Coefficient](https://www.coursera.org/learn/python-social-network-analysis/lecture/ZhNvi/clustering-coefficient)
+
+- [Video - Distance Measures](https://www.coursera.org/learn/python-social-network-analysis/lecture/SeNEl/distance-measures)
+
+- [Video - Connected Components](https://www.coursera.org/learn/python-social-network-analysis/lecture/wmvxd/connected-components)
+
+- [Video - Network Robustness](https://www.coursera.org/learn/python-social-network-analysis/lecture/3pGvt/network-robustness)
+
+- [Lab - Simple Network Visualizations in NetworkX](./Labs/Visualizing%20Graphs%20with%20NetworkX.ipynb)
+
+- [Video - TA Demonstration: Simple Network Visualizations in NetworkX](https://www.coursera.org/learn/python-social-network-analysis/lecture/g4T3b/ta-demonstration-simple-network-visualizations-in-networkx)
+
+## Module 2 Assignment
+
+- [Lab - Network Connectivity](./Labs/Assignment%202.ipynb)
