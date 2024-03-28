@@ -3226,4 +3226,69 @@ additional terms may apply.  By using this site, you agree to the <a href="https
 <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1332"});});</script>
 
 
-<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><a accesskey="v" href="https://en.wikipedia.org/wiki/List_of_American_and_Canadian_cities_by_number_of_major_professional_sports_franchises?action=edit" class="oo-ui-element-hidden"></a><div id="mwe-popups-svg"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0"><defs><clippath id="mwe-popups-mask"><path d="M0 8h10l8-8 8 8h974v992H0z"></path></clippath><clippath id="mwe-popups-mask-flip"><path d="M0 8h294l8-8 8 8h690v992H0z"></path></clippath><clippath id="mwe-popups-landscape-mask"><path d="M0 8h174l8-8 8 8h810v992H0z"></path></clippath><clippath id="mwe-popups-landscape-mask-flip"><path d="M0 0h1000v242H190l-8 8-8-8H0z"></path></clippath></defs></svg></div></body></html>
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><a accesskey="v" href="https://en.wikipedia.org/wiki/List_of_American_and_Canadian_cities_by_number_of_major_professional_sports_franchises?action=edit" class="oo-ui-element-hidden"></a><div id="mwe-popups-svg"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0"><defs><clippath id="mwe-popups-mask"><path d="M0 8h10l8-8 8 8h974v992H0z"></path></clippath><clippath id="mwe-popups-mask-flip"><path d="M0 8h294l8-8 8 8h690v992H0z"></path></clippath><clippath id="mwe-popups-landscape-mask"><path d="M0 8h174l8-8 8 8h810v992H0z"></path></clippath><clippath id="mwe-popups-landscape-mask-flip"><path d="M0 0h1000v242H190l-8 8-8-8H0z"></path></clippath></defs></svg></div><script>
+    const coursera_getParentTargetDomain = function() {
+      if (location.ancestorOrigins && location.ancestorOrigins[0]) {
+        return location.ancestorOrigins[0];
+      }
+      return "https://www.coursera.org";
+    };
+    </script>
+<script>
+    if (window.parent !== window) {
+      (function() {
+        var historyWrapper = function(functionType) {
+          var whichFunc = history[functionType];
+          return function() {
+            var response = whichFunc.apply(this, arguments);
+            var eventRes = new Event(functionType);
+            eventRes.arguments = arguments;
+            window.dispatchEvent(eventRes);
+            return response;
+          };
+        };
+        history.pushState = historyWrapper("pushState");
+        history.replaceState = historyWrapper("replaceState");
+        const sendInnerFrameUrl = function() {
+          window.parent.postMessage({'innerFrameUrl': window.location.href, 'fromInnerFrame': true}, coursera_getParentTargetDomain());
+        };
+        window.addEventListener("pushState",    sendInnerFrameUrl);
+        window.addEventListener("replaceState", sendInnerFrameUrl);
+        window.addEventListener("popstate",     sendInnerFrameUrl);
+        window.addEventListener("hashchange",   sendInnerFrameUrl);
+      })();
+    }
+    </script>
+<script>
+    if (window.parent !== window) {
+      window.parent.postMessage({'innerFrameUrl': window.location.href, 'fromInnerFrame': true}, coursera_getParentTargetDomain());
+    }
+    </script>
+<script>
+    if (window.parent !== window) {
+      (function() {
+        function throttle(callback, limit) {
+          var waiting = false;                      // Initially, we're not waiting
+          return function () {                      // We return a throttled function
+            if (!waiting) {                         // If we're not waiting
+              callback.apply(this, arguments);      // Execute users function
+              waiting = true;                       // Prevent future invocations
+              setTimeout(function () {              // After a period of time
+                  waiting = false;                  // And allow future invocations
+              }, limit);
+            }
+          }
+        }
+
+        const notify = () => {
+          window.parent.postMessage({'isActive': true, 'fromInnerFrame': true}, coursera_getParentTargetDomain());
+        };
+
+        const throttledNotify = throttle(notify, 10000);
+      
+        window.addEventListener('keydown', throttledNotify);
+        window.addEventListener('mousemove', throttledNotify);
+        window.addEventListener('click', throttledNotify);
+      })();
+    }
+    </script></body></html>
