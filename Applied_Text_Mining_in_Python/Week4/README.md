@@ -21,9 +21,3 @@
 ## Assignment 4
 
 - [Lab - Document Similarity & Topic Modelling](./Labs/Assignment%204.ipynb)
-
-## Post-Course Survey
-
-- [Reading - Post-Course Survey](https://www.coursera.org/learn/python-text-mining/supplement/lDdYR/post-course-survey)
-
-- [Reading - Keep Learning with Michigan Online](https://www.coursera.org/learn/python-text-mining/supplement/ow4mR/keep-learning-with-michigan-online)

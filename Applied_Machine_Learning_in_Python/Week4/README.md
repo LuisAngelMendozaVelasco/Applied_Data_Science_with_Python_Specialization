@@ -62,7 +62,3 @@ This module covers more advanced supervised learning methods that include ensemb
 ## Conclusion
 
 - [Video - Conclusion](https://www.coursera.org/learn/python-machine-learning/lecture/eRkjD/conclusion)
-
-- [Reading - Post-course Survey](https://www.coursera.org/learn/python-machine-learning/supplement/P296E/post-course-survey)
-
-- [Reading - Keep Learning with Michigan Online](https://www.coursera.org/learn/python-machine-learning/supplement/4nfdZ/keep-learning-with-michigan-online)

@@ -24,7 +24,3 @@ In this week of the course you'll be introduced to a variety of statistical tech
 ## Week 4 - Assignment
 
 - [Lab - Assignment 4](./Labs/assignment4.ipynb)
-
-- [Reading - Post-course Survey](https://www.coursera.org/learn/python-data-analysis/supplement/XwD4J/post-course-survey)
-
-- [Reading - Keep Learning with Michigan Online!](https://www.coursera.org/learn/python-data-analysis/supplement/sbsCt/keep-learning-with-michigan-online)

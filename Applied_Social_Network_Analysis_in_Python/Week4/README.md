@@ -29,9 +29,3 @@ In Module Four, you'll explore the evolution of networks over time, including th
 ## Module 4 Assignment
 
 - [Lab - Assignment 4](./Labs/Assignment%204.ipynb)
-
-## Post-Course Survey
-
-- [Reading - Post-Course Survey](https://www.coursera.org/learn/python-social-network-analysis/supplement/XUx2A/post-course-survey)
-
-- [Reading - Keep Learning with Michigan Online!](https://www.coursera.org/learn/python-social-network-analysis/supplement/yYkDU/keep-learning-with-michigan-online)

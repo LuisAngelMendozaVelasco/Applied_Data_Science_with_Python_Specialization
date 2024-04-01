@@ -15,13 +15,9 @@ In this module, you will get an introduction to principles of information visual
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-plotting/supplement/Faz2H/syllabus)
 
-- [Reading - Help us learn more about you!](https://www.coursera.org/learn/python-plotting/supplement/EysSF/help-us-learn-more-about-you)
-
 - [Video - About the Professor: Christopher Brooks](https://www.coursera.org/learn/python-plotting/lecture/CpFeA/about-the-professor-christopher-brooks)
 
 - [Video - Tools for Thinking about Design (Alberto Cairo)](https://www.coursera.org/learn/python-plotting/lecture/qrqqa/tools-for-thinking-about-design-alberto-cairo)
-
-- [Reading - Notice for Coursera Learners: Assignment Submission](https://www.coursera.org/learn/python-plotting/supplement/cBhSj/notice-for-coursera-learners-assignment-submission)
 
 - [Reading - Hands-on Visualization Wheel](https://mooctools.ai.umich.edu/multimeasure/424-visualization-wheel-practice/)
 

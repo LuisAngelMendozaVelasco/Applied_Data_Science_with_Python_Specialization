@@ -15,13 +15,9 @@ This module introduces basic machine learning concepts, tasks, and workflow usin
 
 - [Video - Introduction](https://www.coursera.org/learn/python-machine-learning/lecture/4f2So/introduction)
 
-- [Reading - Help us learn more about you!](https://www.coursera.org/learn/python-machine-learning/supplement/Prlcl/help-us-learn-more-about-you)
-
 - [Video - Key Concepts in Machine Learning](https://www.coursera.org/learn/python-machine-learning/lecture/hrHXm/key-concepts-in-machine-learning)
 
 - [Video - Python Tools for Machine Learning](https://www.coursera.org/learn/python-machine-learning/lecture/Nmu9k/python-tools-for-machine-learning)
-
-- [Reading - Notice for Auditing Learners: Assignment Submission](https://www.coursera.org/learn/python-machine-learning/supplement/OVcVh/notice-for-auditing-learners-assignment-submission)
 
 - [Lab - A simple classification task](./Labs/Module%201.ipynb)
 

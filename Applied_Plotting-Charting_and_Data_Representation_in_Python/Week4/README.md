@@ -24,5 +24,3 @@ In this module, then everything starts to come together. Your final assignment i
 - [Video - Becoming an Independent Data Scientist](https://www.coursera.org/learn/python-plotting/lecture/4ZRSU/becoming-an-independent-data-scientist)
 
 - [Lab - Assignment 4](./Labs/Assignment4.ipynb)
-
-- [Reading - Post-course Survey](https://www.coursera.org/learn/python-plotting/supplement/V4p9r/post-course-survey)
