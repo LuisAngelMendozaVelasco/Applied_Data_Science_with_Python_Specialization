@@ -17,10 +17,6 @@ In this week you'll get an introduction to the field of data science, review com
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-data-analysis/supplement/RzTaF/syllabus)
 
-- [Reading - Notice for Auditing Learners: Assignment Submission](https://www.coursera.org/learn/python-data-analysis/supplement/73GCr/notice-for-auditing-learners-assignment-submission)
-
-- [Reading - Help Us Learn More About You!](https://www.coursera.org/learn/python-data-analysis/supplement/GLyaY/help-us-learn-more-about-you)
-
 - [Video - The Coursera Jupyter Notebook System](https://www.coursera.org/learn/python-data-analysis/lecture/nWh1K/the-coursera-jupyter-notebook-system)
 
 - [Lab - Your Personal Jupyter Notebook Workspace](https://www.coursera.org/learn/python-data-analysis/ungradedLab/33VUU/your-personal-jupyter-notebook-workspace/lab)

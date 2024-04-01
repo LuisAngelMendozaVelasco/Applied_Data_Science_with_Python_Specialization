@@ -12,11 +12,7 @@
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-text-mining/supplement/QCkKT/syllabus)
 
-- [Reading - Help us learn more about you!!](https://www.coursera.org/learn/python-text-mining/supplement/Q6EoZ/help-us-learn-more-about-you)
-
 - [Video - Handling Text in Python](https://www.coursera.org/learn/python-text-mining/lecture/MeheH/handling-text-in-python)
-
-- [Reading- Notice for Auditing Learners: Assignment Submission](https://www.coursera.org/learn/python-text-mining/supplement/RQ3vv/notice-for-auditing-learners-assignment-submission)
 
 - [Lab - Working with Text](./Labs/Working%20With%20Text.ipynb)
 

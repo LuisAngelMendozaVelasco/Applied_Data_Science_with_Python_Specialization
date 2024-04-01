@@ -15,8 +15,6 @@ Module One introduces you to different types of networks in the real world and w
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-social-network-analysis/supplement/01pEr/syllabus)
 
-- [Reading - Help us learn more about you!](https://www.coursera.org/learn/python-social-network-analysis/supplement/EnyKG/help-us-learn-more-about-you)
-
 - [Video - Networks: Definition and Why We Study Them](https://www.coursera.org/learn/python-social-network-analysis/lecture/moENa/networks-definition-and-why-we-study-them)
 
 - [Video - Network Definition and Vocabulary](https://www.coursera.org/learn/python-social-network-analysis/lecture/oQ60i/network-definition-and-vocabulary)
@@ -24,8 +22,6 @@ Module One introduces you to different types of networks in the real world and w
 - [Video - Node and Edge Attributes](https://www.coursera.org/learn/python-social-network-analysis/lecture/hTKct/node-and-edge-attributes)
 
 - [Video - Bipartite Graphs](https://www.coursera.org/learn/python-social-network-analysis/lecture/tWwx2/bipartite-graphs)
-
-- [Reading - Notice for Auditing Learners: Assignment Submission](https://www.coursera.org/learn/python-social-network-analysis/supplement/PVB21/notice-for-auditing-learners-assignment-submission)
 
 - [Lab - Loading Graphs in NetworkX](./Labs/Loading%20Graphs%20in%20NetworkX.ipynb)
 
