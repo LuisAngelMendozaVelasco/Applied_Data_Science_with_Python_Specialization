@@ -10,6 +10,8 @@ This module covers evaluation and model selection methods that you can use to he
 
 ## Module 3: Evaluation
 
+- [Reading - Week 3 Slides](./Readings/03-adspy-module3-evaluation.pdf)
+
 - [Lab - Evaluation](./Labs/Module%203.ipynb)
 
 - [Video - Model Evaluation & Selection](https://www.coursera.org/learn/python-machine-learning/lecture/BE2l9/model-evaluation-selection)

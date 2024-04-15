@@ -14,11 +14,19 @@ In Module Two you'll learn how to analyze the connectivity of a network based on
 
 ## Module 2: Network Connectivity
 
+- [Reading - Clustering Coefficient](./Readings/2.1_Clustering-Coefficient.pdf)
+
 - [Video - Clustering Coefficient](https://www.coursera.org/learn/python-social-network-analysis/lecture/ZhNvi/clustering-coefficient)
+
+- [Reading - Distance Measures](./Readings/2.2_Distance-Measures.pdf)
 
 - [Video - Distance Measures](https://www.coursera.org/learn/python-social-network-analysis/lecture/SeNEl/distance-measures)
 
+- [Reading - Connected Components](./Readings/2.3_Connected-Components.pdf)
+
 - [Video - Connected Components](https://www.coursera.org/learn/python-social-network-analysis/lecture/wmvxd/connected-components)
+
+- [Reading - Network Robustness](./Readings/2.4_Network-Robustness.pdf)
 
 - [Video - Network Robustness](https://www.coursera.org/learn/python-social-network-analysis/lecture/3pGvt/network-robustness)
 

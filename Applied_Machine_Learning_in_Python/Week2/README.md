@@ -12,6 +12,8 @@ This module delves into a wider variety of supervised learning methods for both 
 
 ## Module 2: Supervised Machine Learning
 
+- [Reading - Week 2 Slides](./Readings/02-adspy-module2-supervised1.pdf)
+
 - [Lab - Supervised Learning, Part I](./Labs/Module%202.ipynb)
 
 - [Video - Introduction to Supervised Machine Learning](https://www.coursera.org/learn/python-machine-learning/lecture/EKQDv/introduction-to-supervised-machine-learning)

@@ -15,11 +15,19 @@ Module One introduces you to different types of networks in the real world and w
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-social-network-analysis/supplement/01pEr/syllabus)
 
+- [Reading - Networks: Definition and Why We Study Them](./Readings/1.1_Networks-Everywhere.pdf)
+
 - [Video - Networks: Definition and Why We Study Them](https://www.coursera.org/learn/python-social-network-analysis/lecture/moENa/networks-definition-and-why-we-study-them)
+
+- [Reading - Network Definition and Vocabulary](./Readings/1.2_Network-Definition-and-Vocabulary.pdf)
 
 - [Video - Network Definition and Vocabulary](https://www.coursera.org/learn/python-social-network-analysis/lecture/oQ60i/network-definition-and-vocabulary)
 
+- [Reading - Node and Edge Attributes](./Readings/1.3_Node-and-Edge-Attributes.pdf)
+
 - [Video - Node and Edge Attributes](https://www.coursera.org/learn/python-social-network-analysis/lecture/hTKct/node-and-edge-attributes)
+
+- [Reading - Bipartite Graphs](./Readings/1.4_Bipartite-Graphs.pdf)
 
 - [Video - Bipartite Graphs](https://www.coursera.org/learn/python-social-network-analysis/lecture/tWwx2/bipartite-graphs)
 

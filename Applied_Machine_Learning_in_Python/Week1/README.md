@@ -11,6 +11,8 @@ This module introduces basic machine learning concepts, tasks, and workflow usin
 
 ## Module 1: Fundamentals of Machine Learning - Intro to SciKit Learn
 
+- [Reading - Week 1 Slides](./Readings/01-adspy-module1-basics.pdf)
+
 - [Reading - Syllabus](https://www.coursera.org/learn/python-machine-learning/supplement/6EzLY/syllabus)
 
 - [Video - Introduction](https://www.coursera.org/learn/python-machine-learning/lecture/4f2So/introduction)

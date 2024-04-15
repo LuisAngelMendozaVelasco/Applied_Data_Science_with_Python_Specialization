@@ -11,6 +11,8 @@ In this module, you will get an introduction to principles of information visual
 
 ## Principles of Information Visualization
 
+- [Reading - Week 1 Slides](./Readings/Week1_Slides_Final.pdf)
+
 - [Video - Introduction](https://www.coursera.org/learn/python-plotting/lecture/7uYsh/introduction)
 
 - [Reading - Syllabus](https://www.coursera.org/learn/python-plotting/supplement/Faz2H/syllabus)

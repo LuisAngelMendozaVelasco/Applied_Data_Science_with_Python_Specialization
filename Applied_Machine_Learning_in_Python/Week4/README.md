@@ -11,6 +11,8 @@ This module covers more advanced supervised learning methods that include ensemb
 
 ## Module 4: Supervised Machine Learning - Part 2
 
+- [Reading - Week 4 Slides](./Readings/04-adspy-module4-supervised2.pdf)
+
 - [Lab - Supervised Learning, Part II](./Labs/Module%204.ipynb)
 
 - [Video - Naive Bayes Classifiers](https://www.coursera.org/learn/python-machine-learning/lecture/0XFms/naive-bayes-classifiers)
@@ -46,6 +48,8 @@ This module covers more advanced supervised learning methods that include ensemb
 - [Lab - Understanding and Predicting Property Maintenance Fines](./Labs/Assignment%204.ipynb)
 
 ## Optional: Unsupervised Machine Learning
+
+- [Reading - Unsupervised Machine Learning Slides](./Readings/05-adspy-unsupervised.pdf)
 
 - [Lab - Unsupervised Learning](./Labs/Unsupervised%20Learning.ipynb)
 

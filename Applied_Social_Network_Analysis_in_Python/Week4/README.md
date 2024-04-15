@@ -14,11 +14,17 @@ In Module Four, you'll explore the evolution of networks over time, including th
 
 ## Module 4: Applications
 
+- [Reading - Preferential Attachment Model](./Readings/4.1_Preferential-Attachment-Model.pdf)
+
 - [Video - Preferential Attachment Model](https://www.coursera.org/learn/python-social-network-analysis/lecture/abipd/preferential-attachment-model)
 
 - [Reading - Power Laws and Rich-Get-Richer Phenomena (Optional)](http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf)
 
+- [Reading - Small World Networks](./Readings/4.2_Small-World-Networks.pdf)
+
 - [Video - Small World Networks](https://www.coursera.org/learn/python-social-network-analysis/lecture/Iv4e8/small-world-networks)
+
+- [Reading - Link Prediction](./Readings/4.3_Link-Prediction.pdf)
 
 - [Video - Link Prediction](https://www.coursera.org/learn/python-social-network-analysis/lecture/hvFPZ/link-prediction)
 
